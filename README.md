@@ -32,7 +32,7 @@ A comprehensive Streamlit-based application for optimizing Electrical Discharge 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/EDMLearner.git
+git clone https://github.com/akshansh11/EDMLearner.git
 cd EDMLearner
 ```
 
